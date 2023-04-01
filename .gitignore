@@ -41,3 +41,5 @@ next-env.d.ts
 
 #Ignore the pdf files:
 *.pdf
+*.doc
+*.docx
