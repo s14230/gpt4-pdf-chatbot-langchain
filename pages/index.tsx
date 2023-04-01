@@ -27,7 +27,7 @@ export default function Home() {
   }>({
     messages: [
       {
-        message: 'Hi, do you have a question about these studies?',
+        message: 'Hi, do you have a question about the guideline?',
         type: 'apiMessage',
       },
     ],
@@ -165,7 +165,7 @@ export default function Home() {
       <Layout>
         <div className="mx-auto flex flex-col gap-4">
           <h1 className="text-2xl font-bold leading-[1.1] tracking-tighter text-center">
-            Chat With Your Legal Docs
+            Ask questions about the local hip guidelines
           </h1>
           <main className={styles.main}>
             <div className={styles.cloud}>
@@ -282,7 +282,7 @@ export default function Home() {
                     placeholder={
                       loading
                         ? 'Waiting for response...'
-                        : 'Do you have a question about the study?'
+                        : 'Do you have a question about the guideline?'
                     }
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}
