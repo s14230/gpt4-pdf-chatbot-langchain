@@ -1,0 +1,144 @@
+[33mcommit 096c127c7e699041e34c04e86719b184daca28ef[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/final[m[33m, [m[1;32mfinal[m[33m)[m
+Author: s14230 <48768717+s14230@users.noreply.github.com>
+Date:   Sat Apr 1 14:19:44 2023 +0000
+
+    QA prompt change and legal title
+
+[33mcommit 365400c7f40c64dc7d604d95bb00a32228647b4f[m
+Author: s14230 <48768717+s14230@users.noreply.github.com>
+Date:   Sat Apr 1 13:11:32 2023 +0000
+
+    change to hip guidelines
+
+[33mcommit ef4046d8ee7e3058ac769ad0da9b0ebb1aa9941b[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Merge: b4c88e1 90381f0
+Author: Mayo <107035552+mayooear@users.noreply.github.com>
+Date:   Tue Mar 28 17:15:08 2023 +0100
+
+    Merge pull request #71 from mayooear/feat/add-directory-loader
+    
+    Add directory loader to load multiple pdf files
+
+[33mcommit 90381f0646490486e9c73448a616e5b3de832726[m[33m ([m[1;31mupstream/feat/add-directory-loader[m[33m, [m[1;31morigin/feat/add-directory-loader[m[33m)[m
+Merge: 5bd2a3b b4c88e1
+Author: Mayo <107035552+mayooear@users.noreply.github.com>
+Date:   Tue Mar 28 17:14:32 2023 +0100
+
+    Merge branch 'main' into feat/add-directory-loader
+
+[33mcommit 5bd2a3b839b06ad43f2fc80926ee29106cb69ebc[m
+Author: Mayo <mijooear@gmail.com>
+Date:   Tue Mar 28 17:09:39 2023 +0100
+
+    add directory loader to load multiple pdf files
+
+[33mcommit b4c88e1bbde2951d1a490698eb76951bc1c5ef8d[m
+Merge: 46bb0ad 581f809
+Author: Mayo <107035552+mayooear@users.noreply.github.com>
+Date:   Mon Mar 27 22:51:25 2023 +0100
+
+    Merge pull request #67 from mayooear/update/pineconeindexenv
+    
+    Update .env.example
+
+[33mcommit 581f809db427c0ce1bf6d73f73c405825130c9c0[m[33m ([m[1;31mupstream/update/pineconeindexenv[m[33m, [m[1;31morigin/update/pineconeindexenv[m[33m)[m
+Author: Mayo <107035552+mayooear@users.noreply.github.com>
+Date:   Mon Mar 27 22:51:08 2023 +0100
+
+    Update .env.example
+    
+    Pinecone index name added to .env file
+
+[33mcommit 46bb0adddb1cae57bbacd87fd368ab250a16374d[m
+Merge: 55f58da 53f5ae6
+Author: Mayo <107035552+mayooear@users.noreply.github.com>
+Date:   Mon Mar 27 22:49:51 2023 +0100
+
+    Merge pull request #66 from mayooear/feat/upgrade-langchain
+    
+    Upgrade LangChain. Add customPDFLoader
+
+[33mcommit 53f5ae62340ee92432b9e1b8b6a83a8b97e2b0c4[m[33m ([m[1;31mupstream/feat/upgrade-langchain[m[33m, [m[1;31morigin/feat/upgrade-langchain[m[33m)[m
+Merge: 10c66b0 55f58da
+Author: Mayo <107035552+mayooear@users.noreply.github.com>
+Date:   Mon Mar 27 22:49:21 2023 +0100
+
+    Merge branch 'main' into feat/upgrade-langchain
+
+[33mcommit 10c66b06671dbb5ea4900c613fcb8c0d7075d2eb[m
+Author: Mayo <mijooear@gmail.com>
+Date:   Mon Mar 27 22:44:28 2023 +0100
+
+    upgrade langchain, add customPDFLoader
+
+[33mcommit 55f58daab7f7051ad496ceba92d87e1f7b7d665c[m
+Merge: fccd3b0 1b6fac8
+Author: Mayo <107035552+mayooear@users.noreply.github.com>
+Date:   Thu Mar 23 16:55:55 2023 +0100
+
+    Merge pull request #39 from mayooear/frontend-fixes
+    
+    General frontend optimization and node version specification
+
+[33mcommit 1b6fac829bb5654c01925d3909b2e36f3d7e7889[m[33m ([m[1;31mupstream/frontend-fixes[m[33m, [m[1;31morigin/frontend-fixes[m[33m)[m
+Author: Mayo <mijooear@gmail.com>
+Date:   Thu Mar 23 16:53:56 2023 +0100
+
+    specify node version in engines, update README for pnpm use
+
+[33mcommit fe06fc8b8af473e0195be7193e59beac09a65018[m
+Author: Mayo <mijooear@gmail.com>
+Date:   Thu Mar 23 16:42:17 2023 +0100
+
+    general frontend optimization
+
+[33mcommit fccd3b099f235b904408ad06f7e506e73dce1cab[m
+Merge: 5229a4d ae1a1bd
+Author: Mayo <107035552+mayooear@users.noreply.github.com>
+Date:   Tue Mar 21 23:05:30 2023 +0100
+
+    Merge pull request #17 from mayooear/fix/next-key-props
+    
+    Fix: unique key props warning
+
+[33mcommit ae1a1bd3960311f24213be320d8572297dbb4c68[m[33m ([m[1;31mupstream/fix/next-key-props[m[33m, [m[1;31morigin/fix/next-key-props[m[33m)[m
+Author: Mayo <mijooear@gmail.com>
+Date:   Tue Mar 21 23:03:19 2023 +0100
+
+    fix unique key props warning
+
+[33mcommit 5229a4df8887bcc198f67553f598f95641ba9375[m[33m ([m[1;31mupstream/feat/add-multiple-pdfs[m[33m, [m[1;31morigin/feat/add-multiple-pdfs[m[33m)[m
+Merge: 4f373b4 8f4c7da
+Author: Mayo <107035552+mayooear@users.noreply.github.com>
+Date:   Tue Mar 21 22:51:56 2023 +0100
+
+    Merge pull request #16 from mayooear/fix/pinecone-upsert-chunks
+    
+    Fix: Pinecone upsert errors due to large size
+
+[33mcommit 8f4c7daa979521c6d602accf0a37217b5fcfc176[m
+Author: Mayo <mijooear@gmail.com>
+Date:   Tue Mar 21 22:47:49 2023 +0100
+
+    add chunk loop to prevent pinecone upsert errors
+
+[33mcommit 4f373b4333c473caab1c9b5af36a42069dfa189e[m
+Merge: fd1020b 695623b
+Author: Mayo <107035552+mayooear@users.noreply.github.com>
+Date:   Mon Mar 20 23:31:48 2023 +0100
+
+    Merge pull request #8 from ankri/main
+    
+    Added an example for an older version to the docs
+
+[33mcommit 695623bf492f1ad7bd5a34cb6199cfb9fe6eb264[m
+Author: Andy Krings-Stern <ankri@users.noreply.github.com>
+Date:   Mon Mar 20 19:18:06 2023 +0000
+
+    added an example for an older version of gpt to the docs
+
+[33mcommit fd1020b0a2d04a091c3d939a202015d19c5b960e[m
+Author: Mayo <mijooear@gmail.com>
+Date:   Fri Mar 17 02:23:33 2023 +0100
+
+    first commit
